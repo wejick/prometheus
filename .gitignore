@@ -22,7 +22,7 @@ benchmark.txt
 /documentation/examples/remote_storage/example_write_adapter/example_writer_adapter
 
 npm_licenses.tar.bz2
-/web/ui/static/react
+/web/ui/static
 /web/ui/assets_vfsdata.go
 
 /vendor

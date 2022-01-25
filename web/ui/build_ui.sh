@@ -33,6 +33,7 @@ function buildReactApp() {
   npm run build
   cd "${current}"
   rm -rf ./static/react
+  mkdir -p ./static
   mv ./react-app/build ./static/react
 }
 
